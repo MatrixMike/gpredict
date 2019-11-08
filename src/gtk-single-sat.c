@@ -66,7 +66,7 @@ const gchar *SINGLE_SAT_FIELD_TITLE[SINGLE_SAT_FIELD_NUMBER] = {
     N_("Next LOS"),
     N_("SSP Lat."),
     N_("SSP Lon."),
-    N_("x SSP Loc."),
+    N_("xx SSP Loc."),
     N_("Footprint"),
     N_("Altitude"),
     N_("Velocity"),
