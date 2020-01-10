@@ -497,7 +497,7 @@ passes_to_txt_tblheader (GSList *passes, qth_t *qth, gint fields)
     g_free (buff);
 
 
-    for (i = 3; i < 10; i++) {
+    for (i = 3; i < 12; i++) {
 
         if (fields & (1 << i)) {
 
